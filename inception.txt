@@ -1,11 +1,3 @@
-https://github.com/wpf68/Inception_42
-Poste : k1r4p14
-user : hugo
-pwd : hugo
-user sudo : hugo
-pwd sudo : hugo
-
-
 General Docker commands :
 
 - docker ps or docker ps -a //show the names of all the containers you have + the id you need and the port associated.
